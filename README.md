@@ -1,0 +1,1 @@
+Java SpringBoot project that sends a get request to "https://api.disneyapi.dev/character" with the "/. Returns a DisneyCharacter object with "/disneyChars" request defined as an "id", "name" and "sourceUrl".
